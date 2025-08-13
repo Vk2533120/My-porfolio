@@ -11,39 +11,19 @@ export const certifications = [
         technologies: ["MongoDB", "React", "Node.js", "Express", "Tailwind CSS"],
         url: "https://www.guvi.in/certificate?id=u071XT9nV2qB038181&download=true"
     },
+
     {
-        title: "Bootstrap Mastery Certification",
-        image: "/images/GuviCertification - Bootstrap.png",
-        description: "Certification showcasing expertise in Bootstrap, applied to creating responsive web designs.",
-        technologies: ["HTML", "CSS", "Bootstrap"],
-        url: "https://www.guvi.in/certificate?id=7G02OhA11U81138oC0&download=true"
-    },
-    {
-        title: "CSS Certification",
-        image: "/images/GuviCertification - CSS.png",
-        description: "Certification demonstrating proficiency in CSS for styling and designing interactive UIs.",
-        technologies: ["HTML", "CSS", "JavaScript"],
-        url: "https://www.guvi.in/certificate?id=u071XT9nV2qB038181&download=true"
-    },
-    {
-        title: "HTML Proficiency Certificate",
-        image: "/images/GuviCertification - HTML.png",
-        description: "Certificate awarded for excellence in HTML and creating structured web layouts.",
+        title: "HTML, CSS, TailWindCSS Proficiency Certificate",
+        image: "/images/GuviCertification - html,css,tailwind.png",
+        description: "Certificate awarded for excellence in HTML,CSS,TailWindCss and creating structured web layouts.",
         technologies: ["HTML", "CSS", "React"],
         url: "https://www.guvi.in/certificate?id=7C2J3c1f18080YbZ1T&download=true"
     },
     {
-        title: "MongoDB Certification",
-        image: "/images/GuviCertification - MongoDB.png",
-        description: "Recognition of skills in MongoDB, focusing on database design and management for web applications.",
-        technologies: ["MongoDB", "TailwindCSS", "React"],
-        url: "https://shoopingcartkhp.netlify.app/"
-    },
-    {
-        title: "MySQL Certification",
-        image: "/images/GuviCertification - MYSQL.png",
-        description: "Certification in MySQL database management and querying techniques for dynamic websites.",
-        technologies: ["MySQL", "TailwindCSS", "React"],
+        title: "DATABASE Certification",
+        image: "/images/GuviCertification - Database.png",
+        description: "Certification in MySQL and MongoDB database management and querying techniques for dynamic websites.",
+        technologies: ["MySQL", "Mongose", "Express"],
         url: "https://www.guvi.in/certificate?id=w186a3h07211A1Y0X8&download=true"
     },
     {
@@ -55,15 +35,22 @@ export const certifications = [
     },
     {
         title: "React.js Certification",
-        image: "/images/GuviCertification - Reactjs.png",
+        image: "/images/GuviCertification - ReactJs.png",
         description: "Certificate of excellence in React.js, specializing in component-based UI development.",
         technologies: ["React.js", "TailwindCSS", "HTML"],
         url: "https://www.guvi.in/certificate?id=8kO1S0g71d2ery0183&download=true"
     },
     {
-        title: "JavaScript Certification",
-        image: "/images/GuviCertification -javascript.png",
+        title: "AdvanceJavaScript Certification",
+        image: "/images/GuviCertification - AdvanceJs.png",
         description: "Certification for JavaScript programming, covering ES6 features and DOM manipulation.",
+        technologies: ["JavaScript", "TailwindCSS", "React"],
+        url: "https://www.guvi.in/certificate?id=01z0K1t1887E321qmV&download=true"
+    },
+    {
+        title: "BasicJavaScript Certification",
+        image: "/images/GuviCertification -Js basic.png",
+        description: "Certification for JavaScript programming, Basic features.",
         technologies: ["JavaScript", "TailwindCSS", "React"],
         url: "https://www.guvi.in/certificate?id=01z0K1t1887E321qmV&download=true"
     }

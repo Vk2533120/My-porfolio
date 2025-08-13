@@ -25,7 +25,7 @@ const Hero = () => {
                 <div className='w-full lg:w-1/2'>
                     <div className='flex justify-center lg:p-8'>
                         <motion.img
-                            src='/images/img.webp'
+                            src='/images/vk.png'
                             alt="Hero"
                             className='border border-stone-900 rounded-3xl max-w-full h-auto lg:max-w-md object-cover'
                             width={650}
@@ -50,7 +50,7 @@ const Hero = () => {
                             className='pt-4 text-2xl lg:text-4xl tracking-tighter'
                             variants={childVariant}  
                         >
-                            Hemapriya
+                            Vishn Kumar
                         </motion.h2>
 
                         {/* Role with Gradient */}
@@ -70,7 +70,7 @@ const Hero = () => {
                         </motion.p>
                         
                         <motion.a
-                            href='Hemapriya_Fsd_Resume.pdf'
+                            href='Vishnu Kumar - MERN Stack Developer Resume (1).pdf'
                             target='_blank'
                             rel='noopener noreferrer'
                             className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'

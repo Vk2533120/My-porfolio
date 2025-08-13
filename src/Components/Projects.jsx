@@ -5,40 +5,40 @@ import 'aos/dist/aos.css';
 
 export const PROJECTS = [
     {
-        title: "Airbnb Clone",
-        image: "/images/Airbnb-Frontend.PNG",
-        description: "A fully responsive Airbnb-inspired web application featuring user authentication, property listings, booking functionality, and user-friendly interfaces.",
-        technologies: ["MongoDB", "React", "Node.js", "Express", "Tailwind CSS"],
-        url: "https://mern-project-liart.vercel.app/"
+        title: "Recipe Discovery App",
+        image: "/images/recipes.png",
+        description: "A recipe search and filter application where users can explore delicious recipes, filter by category or ingredient, and mark favorites. Features a responsive layout and user-friendly design for food lovers.",
+        technologies: ["React", "Tailwind CSS"],
+        url: "https://recipe123-app.netlify.app/"
     },
     {
-      "title": "Portfolio Website",
-      image: "/images/portfolio.PNG",
-      "url": "https://khp-dev-portfolio.netlify.app/",
-      "description": "A personal portfolio designed to showcase skills, projects, and achievements. Built using React and enhanced with animation effects using AOS (Animate on Scroll).",
-      "technologies": ["React", "AOS"]
+      "title": "FitnessHub – Fitness Class Booking Dashboard",
+      image: "/images/dashboard.png",
+      "url": "https://fitness123app.netlify.app/",
+      "description": "A fitness management web app that allows users to explore classes, make bookings, add new classes, view trainer profiles, and provide feedback. Built for both trainers and fitness enthusiasts with a colorful, intuitive interface.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"]
     },
     {
-      "title": "StyleSwap",
-      image: "/images/StyleSwap.PNG",
-      "url": "https://styleswap.vercel.app/",
-      "description": "A feature-rich e-commerce platform with an integrated admin panel. Users can browse products, and the admin can manage inventory and orders. Features include Cloudinary for image hosting and Toastify for notifications.",
+      "title": "Secure Account Management System",
+      image: "/images/login-page.png",
+      "url": "https://password-123reset-frontend.netlify.app/",
+      "description": "A secure user authentication platform with features for account registration, login, and password reset. Designed with a clean UI to ensure a seamless and safe user experience for account management.",
       "technologies": ["MongoDB", "Express", "React", "Node.js", "Cloudinary", "Toastify"]
     },
-    {
-      "title": "Blog Website",
-      image: "/images/blog.PNG",
-      "url": "https://blog-frontend-kappa-one.vercel.app/",
-      "description": "A blogging platform where logged-in users can create and manage their blogs. Users can edit only their own blogs, ensuring secure and personalized content management.",
-      "technologies": ["MongoDB", "Express", "React", "Node.js"]
-    },
-    {
-      "title": "LinkedIn Clone",
-      image: "/images/Linkedin.PNG",
-      "url": "https://project-umber-delta.vercel.app/",
-      "description": "A social platform inspired by LinkedIn. Users can sign up, log in, create posts, and follow others. Designed for networking and professional connections.",
-      "technologies": ["MongoDB", "Express", "React", "Node.js"]
-    }
+    // {
+    //   "title": "Blog Website",
+    //   image: "/images/blog.PNG",
+    //   "url": "https://blog-frontend-kappa-one.vercel.app/",
+    //   "description": "A blogging platform where logged-in users can create and manage their blogs. Users can edit only their own blogs, ensuring secure and personalized content management.",
+    //   "technologies": ["MongoDB", "Express", "React", "Node.js"]
+    // },
+    // {
+    //   "title": "LinkedIn Clone",
+    //   image: "/images/Linkedin.PNG",
+    //   "url": "https://project-umber-delta.vercel.app/",
+    //   "description": "A social platform inspired by LinkedIn. Users can sign up, log in, create posts, and follow others. Designed for networking and professional connections.",
+    //   "technologies": ["MongoDB", "Express", "React", "Node.js"]
+    // }
   ]
   
 

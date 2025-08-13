@@ -3,33 +3,27 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 export const EDUCATION = [
+    
     {
-        degree: "Master of Science (M.Sc.) in Computer Science",
-        institution: "Joseph's Arts and Science College, Thirunavallur",
-        year: "2022 - 2024",
-        description: "Focused on advanced topics in computer science, including software development and database management.",
+        degree: "Bachelor of Science (B.Sc.) in Mathematics ",
+        institution: "Kamaraj Arts Govt College, Surandai",
+        year: "2018 - 2021",
+        description: "Studied core Mathematics subjects.",
         grade: "First Class"
     },
     {
-        degree: "Bachelor of Science (B.Sc.) in Computer Science",
-        institution: "Theivanai Ammal College for Women, Villupuram",
-        year: "2019 - 2022",
-        description: "Studied core computer science subjects including programming, operating systems, and web development. Developed a final year project on e-commerce systems.",
-        grade: "Distinction"
-    },
-    {
         degree: "Higher Secondary Education (12th - Bio-Maths)",
-        institution: "St. Mary's Matriculation Higher Secondary School, Vikravandi",
-        year: "2018 - 2019",
-        description: "Specialized in Biology and Mathematics, scoring 70% overall.",
-        grade: "70%"
+        institution: "TPS Govt Boys School",
+        year: "2017 - 2018",
+        description: "Specialized in Biology and Mathematics",
+        grade: "60%"
     },
     {
         degree: "Secondary School Certificate (10th)",
-        institution: "St. Mary's Matriculation Higher Secondary School, Vikravandi",
-        year: "2016 - 2017",
-        description: "Completed high school with a strong focus on science and mathematics, scoring 91% overall.",
-        grade: "91%"
+        institution: "A V Higher Secondary School",
+        year: "2015 - 2017",
+        description: "Completed high school with a strong focus on science and mathematics",
+        grade: "80%"
     }
 ];
 
