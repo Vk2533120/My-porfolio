@@ -8,7 +8,7 @@ export const PROJECTS = [
         title: "Recipe Discovery App",
         image: "/images/recipes.png",
         description: "A recipe search and filter application where users can explore delicious recipes, filter by category or ingredient, and mark favorites. Features a responsive layout and user-friendly design for food lovers.",
-        technologies: ["React", "Tailwind CSS"],
+        technologies: ["React", "Tailwind CSS","MongoDB","Express",],
         url: "https://recipe123-app.netlify.app/"
     },
     {
@@ -23,15 +23,15 @@ export const PROJECTS = [
       image: "/images/login-page.png",
       "url": "https://password-123reset-frontend.netlify.app/",
       "description": "A secure user authentication platform with features for account registration, login, and password reset. Designed with a clean UI to ensure a seamless and safe user experience for account management.",
-      "technologies": ["MongoDB", "Express", "React", "Node.js", "Cloudinary", "Toastify"]
+      "technologies": ["MongoDB", "Express", "React", "Node.js"]
     },
-    // {
-    //   "title": "Blog Website",
-    //   image: "/images/blog.PNG",
-    //   "url": "https://blog-frontend-kappa-one.vercel.app/",
-    //   "description": "A blogging platform where logged-in users can create and manage their blogs. Users can edit only their own blogs, ensuring secure and personalized content management.",
-    //   "technologies": ["MongoDB", "Express", "React", "Node.js"]
-    // },
+    {
+      "title": "Blog Website",
+      image: "/images/blog.PNG",
+      "url": "https://blog123-site.netlify.app/",
+      "description": "A blogging platform where logged-in users can create and manage their blogs. Users can edit only their own blogs, ensuring secure and personalized content management.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"]
+    },
     // {
     //   "title": "LinkedIn Clone",
     //   image: "/images/Linkedin.PNG",
