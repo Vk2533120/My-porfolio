@@ -32,13 +32,13 @@ export const PROJECTS = [
       "description": "A blogging platform where logged-in users can create and manage their blogs. Users can edit only their own blogs, ensuring secure and personalized content management.",
       "technologies": ["MongoDB", "Express", "React", "Node.js"]
     },
-    // {
-    //   "title": "LinkedIn Clone",
-    //   image: "/images/Linkedin.PNG",
-    //   "url": "https://project-umber-delta.vercel.app/",
-    //   "description": "A social platform inspired by LinkedIn. Users can sign up, log in, create posts, and follow others. Designed for networking and professional connections.",
-    //   "technologies": ["MongoDB", "Express", "React", "Node.js"]
-    // }
+    {
+      "title": "Chat App",
+      image: "/images/chatapp.png",
+      "url": "https://chat1230app.netlify.app/",
+      "description": "The 'Chat Website' project is a dynamic web application that is used for real-time communication. The MERN stack, comprised of MongoDB, Express.js, React.js, and Node.js, is a powerful combination of technologies for developing robust and scalable web applications. In this article, we'll explore the process of building a real-time chat website using the MERN stack, allowing users to do instant conversations.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"]
+    }
   ]
   
 
