@@ -26,10 +26,10 @@ export const PROJECTS = [
       "technologies": ["MongoDB", "Express", "React", "Node.js"]
     },
     {
-      "title": "Blog Website",
-      image: "/images/blog.PNG",
-      "url": "https://blog123-site.netlify.app/",
-      "description": "A blogging platform where logged-in users can create and manage their blogs. Users can edit only their own blogs, ensuring secure and personalized content management.",
+      "title": "Notes Taking",
+      image: "/images/notes.png",
+      "url": "https://notes123takingapp.netlify.app/",
+      "description": "The 'Notes Maker' project is an helpful web application designed to help users effectively create, manage, and organize their notes.",
       "technologies": ["MongoDB", "Express", "React", "Node.js"]
     },
     {
